@@ -10,7 +10,7 @@ For each example
 ```sh
 cd example-name
 npm install
-npm run start
+npm start
 ```
 For Debuging Examples
 ```sh
