@@ -1,5 +1,8 @@
 // importing modules
 const express = require("express");
+
+// app is a instance of express 
+// to run express on top of nodejs need to run app instance 
 const app = express();
 
 // basic http get request on '/' 
