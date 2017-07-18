@@ -1,5 +1,5 @@
 {
-  "name": "node-express-basic-app-level-routing",
+  "name": "node-express-routing",
   "version": "1.0.0",
   "description": "nodejs-express server examples",
   "main": "app.js",
